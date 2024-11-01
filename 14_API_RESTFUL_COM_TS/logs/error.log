@@ -1,0 +1,10 @@
+2024-10-31 21:14:06:146 - [31merror[39m: [31mNão foi possível conectar![39m
+2024-11-01 19:25:53:2553 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfces" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:26:46:2646 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfces" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:27:16:2716 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfces" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:28:13:2813 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfces" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:29:02:292 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfceb" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:44:22:4422 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfceb" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:44:28:4428 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfceb" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:49:08:498 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfceb" (type string) at path "_id" for model "Movie"[39m
+2024-11-01 19:50:23:5023 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "67242b7bc923126ef526bfceb" (type string) at path "_id" for model "Movie"[39m

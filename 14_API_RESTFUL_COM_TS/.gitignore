@@ -1,0 +1,3 @@
+# ocultar os itens abaixo no git
+.env
+node_modules
